@@ -32,6 +32,7 @@ The GUI should interact with the user in the following way:
 ● If the checkbox “show lions and ponds in selected region” is checked and the
 user clicks on a region, the GUI must show all the lions and ponds inside the
 region in red color.
+
 ● After clicking on one region, if the user clicks on another region, lions and ponds
 in the previously clicked region must be reset to their original colors.
 
