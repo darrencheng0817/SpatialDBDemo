@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="I:/USC学习资料/585 数据库/assignment5/classes12.jar"/>
+	<classpathentry kind="lib" path="I:/USC学习资料/585 数据库/assignment5/sdoapi.jar"/>
+	<classpathentry kind="lib" path="I:/USC学习资料/585 数据库/assignment5/sdonm.jar"/>
+	<classpathentry kind="lib" path="I:/USC学习资料/585 数据库/assignment5/sdoutl.jar"/>
+	<classpathentry kind="lib" path="I:/USC学习资料/585 数据库/assignment5/sdovis3d.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
